@@ -20,3 +20,13 @@ body{
   font-size: 16px;
   text-decoration: underline;
 }
+
+.heading2 {
+  font-weight: 300;
+  font-size: 42;
+  color: white;
+}
+
+.heading2para {
+  color: gray;
+}
